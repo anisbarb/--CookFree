@@ -1,0 +1,7 @@
+{
+  "name": "Rasoi",
+  "description": "Rapido for food-making connecting customers with verified cooks and small home kitchens for custom meals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
